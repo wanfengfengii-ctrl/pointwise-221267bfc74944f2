@@ -1,0 +1,47 @@
+{
+  "final_sha": "e095529294d25bdf19f04cabb070d3ed5e744173",
+  "initial_sha": "25b017fce7b31695235b52dd5cce0c781da1e47a",
+  "repositories": [
+    {
+      "bundle": "repo-00.bundle",
+      "bundle_sha256": "6d8f6aa6886705bacb1b206f84063f0e92806e907fc21a3edf692656c732031c",
+      "current": true,
+      "gitlink_oid": "828bca0f64e234a2daadc6ea34204335c5f2a4e7",
+      "head": "828bca0f64e234a2daadc6ea34204335c5f2a4e7",
+      "index_sha256": "2cba1b7a5f3eab77871695cbf0b7817ffbe2f5de1b46e5b73cdfa2461da1c56e",
+      "objects_sha256": "209e52438fdf3546b38d11533b71134f95676ba8f0fb5ff637a060ee69b66da5",
+      "path": "repo",
+      "refs": [
+        {
+          "name": "refs/heads/ingest-idempotency",
+          "oid": "9214e673ace5c51b168aa3a0618c80d76487997b"
+        },
+        {
+          "name": "refs/heads/main",
+          "oid": "f170271d8f3598c3484cbe3bb8a203a884401ba6"
+        },
+        {
+          "name": "refs/heads/quarantine-replay",
+          "oid": "828bca0f64e234a2daadc6ea34204335c5f2a4e7"
+        },
+        {
+          "name": "refs/tags/baseline/base",
+          "oid": "f170271d8f3598c3484cbe3bb8a203a884401ba6"
+        },
+        {
+          "name": "refs/tags/baseline/hotfix",
+          "oid": "9214e673ace5c51b168aa3a0618c80d76487997b"
+        },
+        {
+          "name": "refs/tags/baseline/replay",
+          "oid": "8b0efb3008a575884d5984f3415dfcc07ed6dc52"
+        }
+      ],
+      "required_oids": [
+        "828bca0f64e234a2daadc6ea34204335c5f2a4e7"
+      ],
+      "worktree_sha256": "87c629f92a3f01951cb9fddef80bc3e7d00440784a3f034afec7236ca97b86ed"
+    }
+  ],
+  "version": 1
+}
