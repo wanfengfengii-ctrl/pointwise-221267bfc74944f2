@@ -4,6 +4,6 @@
   "setup": [
     ["python3", "seed_repo.py"]
   ],
-  "verify": ["python3", "runtime_checks.py", "normal"],
-  "demo": ["python3", "runtime_checks.py", "demo"]
+  "verify": ["python3", "repo/review_evidence.py", "verify"],
+  "demo": ["python3", "repo/review_evidence.py", "demo"]
 }
